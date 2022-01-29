@@ -1,5 +1,9 @@
+In short, you can freely use everything in non-commercial project. 
 
-Creative Commons Attribution-NonCommercial 4.0 International Public License
+Link to license source: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+# Creative Commons Attribution-NonCommercial 4.0 International Public License
+
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and
 conditions of this Creative Commons Attribution-NonCommercial 4.0 International Public License ("Public
 License"). To the extent this Public License may be interpreted as a contract, You are granted the
