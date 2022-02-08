@@ -17,6 +17,6 @@ This silly convenction is used because of limited number of characters in textur
 ### Previews
 **SwampValley.wad**:
   
-![image](https://user-images.githubusercontent.com/5261292/151671531-92820cf5-2c51-454b-a40a-b1f4c8552851.png)
+![image](https://user-images.githubusercontent.com/5261292/152973431-ba1bb127-d2da-4d9e-a508-b2c472842f6b.png)
 
 
